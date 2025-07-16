@@ -6,7 +6,6 @@
 [![PyPI](https://img.shields.io/badge/PyPI-pandas-blue.svg)](https://pypi.org/project/pandas/)
 [![PyPI](https://img.shields.io/badge/PyPI-requests-blue.svg)](https://pypi.org/project/requests/)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Tests](https://github.com/juliensimon/huggingface-org-stats/workflows/CI/badge.svg)](https://github.com/juliensimon/huggingface-org-stats/actions)
 [![Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen.svg)](https://github.com/juliensimon/huggingface-org-stats)
 [![Multi-Python](https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12|%203.13-blue?logo=python&logoColor=white)](https://github.com/juliensimon/huggingface-org-stats/actions)
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
