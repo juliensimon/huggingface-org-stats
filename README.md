@@ -1,6 +1,5 @@
 # Hugging Face Organization Statistics
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PyPI](https://img.shields.io/badge/PyPI-huggingface--hub-blue.svg)](https://pypi.org/project/huggingface-hub/)
 [![PyPI](https://img.shields.io/badge/PyPI-pandas-blue.svg)](https://pypi.org/project/pandas/)
@@ -22,6 +21,10 @@
 [![Windows](https://img.shields.io/badge/os-windows-blue?logo=windows)]()
 
 A professional command-line tool to collect comprehensive statistics for Hugging Face organizations, including models, datasets, and spaces with download counts and engagement metrics.
+
+## 🎯 Template Repository
+
+This repository also serves as a **Python Project Template** with comprehensive CI/CD, code quality tools, and development automation. See [TEMPLATE_README.md](TEMPLATE_README.md) for detailed setup instructions.
 
 ## ✨ Features
 
@@ -189,5 +192,3 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 - Built with [Hugging Face Hub](https://huggingface.co/docs/huggingface_hub)
 - Data processing with [Pandas](https://pandas.pydata.org/)
 - Progress tracking with [tqdm](https://tqdm.github.io/)
-# CI Trigger
-# Test CI
