@@ -1,0 +1,35 @@
+[run]
+source = hf_org_stats
+omit =
+    */tests/*
+    */test_*
+    */__pycache__/*
+    */venv/*
+    */env/*
+    */\.venv/*
+    setup.py
+    */site-packages/*
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    if self.debug:
+    if settings.DEBUG
+    raise AssertionError
+    raise NotImplementedError
+    if 0:
+    if __name__ == .__main__.:
+    class .*\bProtocol\):
+    @(abc\.)?abstractmethod
+    def main\(\):
+    if TYPE_CHECKING:
+    from __future__ import
+    import __future__
+
+[html]
+directory = htmlcov
+title = Hugging Face Organization Statistics Coverage Report
+
+[xml]
+output = coverage.xml
