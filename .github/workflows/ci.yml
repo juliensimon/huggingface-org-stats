@@ -39,8 +39,9 @@ jobs:
 
     - name: Run linting
       run: |
+        black .
+        git diff --exit-code || (echo "Code formatting issues found. Please run 'black .' locally and commit the changes." && exit 1)
         flake8 .
-        black --check .
         mypy .
 
     - name: Run tests
