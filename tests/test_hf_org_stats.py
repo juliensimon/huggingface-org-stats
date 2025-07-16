@@ -380,9 +380,9 @@ class TestHFStatsCollector:
                 with patch.object(
                     self.collector, "get_organization_spaces", return_value=[]
                 ):
-                    results: Dict[
-                        str, pd.DataFrame
-                    ] = self.collector.collect_organization_stats("test-org")
+                    results: Dict[str, pd.DataFrame] = (
+                        self.collector.collect_organization_stats("test-org")
+                    )
 
                     assert "models" in results
                     assert "datasets" in results
