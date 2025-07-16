@@ -17,6 +17,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/juliensimon/huggingface-org-stats/pulls)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Organizations-orange.svg)](https://huggingface.co/)
 [![CLI](https://img.shields.io/badge/CLI-Command%20Line-black.svg)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Linux](https://img.shields.io/badge/os-linux-blue?logo=linux)]()
+[![macOS](https://img.shields.io/badge/os-macOS-lightgrey?logo=apple)]()
+[![Windows](https://img.shields.io/badge/os-windows-blue?logo=windows)]()
 
 A professional command-line tool to collect comprehensive statistics for Hugging Face organizations, including models, datasets, and spaces with download counts and engagement metrics.
 
