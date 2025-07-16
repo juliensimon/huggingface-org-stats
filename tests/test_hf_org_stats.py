@@ -728,7 +728,7 @@ class TestHFStatsCollector:
             # Verify save was called with JSON format
             mock_collector.save_results.assert_called_once()
             call_args = mock_collector.save_results.call_args
-            assert call_args[1]["output_format"] == "json"
+            assert call_args[0][2] == "json"
 
             # Verify output was printed
             mock_print.assert_called()
@@ -760,7 +760,7 @@ class TestHFStatsCollector:
             # Verify save was called with Excel format
             mock_collector.save_results.assert_called_once()
             call_args = mock_collector.save_results.call_args
-            assert call_args[1]["output_format"] == "excel"
+            assert call_args[0][2] == "excel"
 
             # Verify output was printed
             mock_print.assert_called()
