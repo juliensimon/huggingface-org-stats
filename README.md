@@ -168,6 +168,9 @@ make coverage-report
 
 # Format code
 make format
+
+# Run type checks
+mypy hf_org_stats.py tests/
 ```
 
 ## 🤝 Contributing
