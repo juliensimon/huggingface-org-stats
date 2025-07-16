@@ -22,10 +22,6 @@
 
 A professional command-line tool to collect comprehensive statistics for Hugging Face organizations, including models, datasets, and spaces with download counts and engagement metrics.
 
-## 🎯 Template Repository
-
-This repository also serves as a **Python Project Template** with comprehensive CI/CD, code quality tools, and development automation. See [TEMPLATE_README.md](TEMPLATE_README.md) for detailed setup instructions.
-
 ## ✨ Features
 
 - **📊 Models**: Collect download counts (all-time and 30-day) and likes
