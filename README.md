@@ -1,5 +1,6 @@
 # Hugging Face Organization Statistics
 
+[![CI](https://github.com/juliensimon/huggingface-org-stats/workflows/CI/badge.svg)](https://github.com/juliensimon/huggingface-org-stats/actions)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PyPI](https://img.shields.io/badge/PyPI-huggingface--hub-blue.svg)](https://pypi.org/project/huggingface-hub/)
 [![PyPI](https://img.shields.io/badge/PyPI-pandas-blue.svg)](https://pypi.org/project/pandas/)
