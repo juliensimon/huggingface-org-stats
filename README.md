@@ -9,6 +9,15 @@
 [![Tests](https://github.com/juliensimon/huggingface-org-stats/workflows/CI/badge.svg)](https://github.com/juliensimon/huggingface-org-stats/actions)
 [![Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen.svg)](https://github.com/juliensimon/huggingface-org-stats)
 [![Multi-Python](https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12|%203.13-blue?logo=python&logoColor=white)](https://github.com/juliensimon/huggingface-org-stats/actions)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Security](https://img.shields.io/badge/security-bandit-yellow.svg)](https://bandit.readthedocs.io/)
+[![Type Check](https://img.shields.io/badge/type%20check-mypy-blue.svg)](https://mypy.readthedocs.io/)
+[![Linting](https://img.shields.io/badge/linting-flake8-blue.svg)](https://flake8.pycqa.org/)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-brightgreen.svg)](https://github.com/juliensimon/huggingface-org-stats)
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/juliensimon/huggingface-org-stats/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/juliensimon/huggingface-org-stats/pulls)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Organizations-orange.svg)](https://huggingface.co/)
+[![CLI](https://img.shields.io/badge/CLI-Command%20Line-black.svg)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 A professional command-line tool to collect comprehensive statistics for Hugging Face organizations, including models, datasets, and spaces with download counts and engagement metrics.
 
